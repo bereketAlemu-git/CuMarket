@@ -1,5 +1,4 @@
 NAME:Bereket Alemu 
-Student number: 101282366
 
 List of files:
     CuMarket.cc , CuMarket.h
@@ -18,4 +17,6 @@ List of files:
 
 Compilation and Execution
     To compile, enter the command 'make' in the terminal
-    To excute it, enter './a1' in terminal
+    To excute it, enter './a1' in terminal.
+
+This is from the course comp 2404 at Carleton University
